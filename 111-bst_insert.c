@@ -1,4 +1,3 @@
-111-bst_insert.c
 #include "binary_trees.h"
 
 /**

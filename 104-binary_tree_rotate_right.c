@@ -1,4 +1,3 @@
-104-binary_tree_rotate_right.c
 #include "binary_trees.h"
 
 /**

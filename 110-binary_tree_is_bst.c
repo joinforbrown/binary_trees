@@ -1,4 +1,3 @@
-110-binary_tree_is_bst.c
 #include "binary_trees.h"
 #include "limits.h"
 

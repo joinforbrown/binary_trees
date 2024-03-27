@@ -1,4 +1,3 @@
-114-bst_remove.c
 #include "binary_trees.h"
 
 bst_t *inorder_successor(bst_t *root);

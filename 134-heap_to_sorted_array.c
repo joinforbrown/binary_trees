@@ -1,4 +1,3 @@
-134-heap_to_sorted_array.c
 #include "binary_trees.h"
 
 /**
